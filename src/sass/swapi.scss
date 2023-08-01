@@ -1,0 +1,73 @@
+.title {
+    font-size: 44px;
+    text-align: center;
+}
+
+.list {
+    display: flex;
+    flex-wrap: wrap;
+    list-style: none;
+    gap: 36px;
+    margin-top: 36px;
+    margin-bottom: 36px;
+    text-align: center;
+    justify-content: center;
+}
+
+.card {
+    border: 3px solid rgb(0, 4, 255);
+    border-radius: 5px;
+    border-color: rgb(255, 255, 0);
+    background-color: white;
+    padding: 10px;
+    width: 250px;
+}
+
+.js-container {
+    display: flex;
+    flex-wrap: wrap;
+    list-style: none;
+    padding-top: 36px;
+    padding-bottom: 36px;
+    gap: 36px;
+    background-color: rgb(41, 39, 144);
+    justify-content: center;
+}
+
+.js-people {
+    font-size: 42px;
+    background-color: rgb(255, 255, 0);
+    border: none;
+    padding: 20px 12px;
+    width: 5em;
+    cursor: pointer;
+  }
+
+  .js-planets {
+    font-size: 42px;
+    background-color: rgb(255, 255, 0);
+    border: none;
+    padding: 20px 12px;
+    width: 5em;
+    cursor: pointer;
+  }
+
+  .js-starships {
+    font-size: 42px;
+    background-color: rgb(255, 255, 0);
+    border: none;
+    padding: 20px 12px;
+    width: 5em;
+    cursor: pointer;
+  }
+
+  .js-load-more {
+    margin: 0 auto;
+    display: block;
+    font-size: 28px;
+    background-color: rgb(225, 114, 168);
+    border-color: transparent;
+    border-radius: 5px;
+    margin-top: 36px;
+    margin-bottom: 36px;
+  }

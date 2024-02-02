@@ -5,7 +5,7 @@
   "homepage": "https://Jinjerana.github.io/SWAPI_STAR-WARS",
   "scripts": {
     "start": "parcel src/*.html",
-    "build": "parcel build src/*.html --public-url /SWAPI_STAR-WARS/"
+    "build": "parcel build src/*.html --public-url /parcel-project-template/"
   },
   "dependencies": {
     "modern-normalize": "^1.1.0"
